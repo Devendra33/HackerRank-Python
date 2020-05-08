@@ -7,7 +7,7 @@ on thier respective turns. And finally result is displayed by showing WIN, LOSE,
 
 2. bfile_management sys:
 -> It basically means binary file management system, it shows complex task of managing the binary file with major use of mmap()
-package for ease. One can easily view, insert, search, and change records of this file.
+package and Regex for ease of insertion or retrieval. One can easily view, insert, search, and change records of this file.
 
 please install colorama package for better experience (pip install colorama)!!!
 For testing Purpose use: bfile.dat 
